@@ -1,0 +1,120 @@
+.container{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+margin: 0 auto;
+width: 1440px;
+}
+.container>nav{
+    height: 643px;
+}
+.container>header{
+margin-top: 20px;
+margin-left: 663px;
+margin-bottom: 20px;
+}
+.container>nav>ul{
+list-style: none;
+display: flex;
+margin-left: 353px;
+padding: 0px;
+}
+.container>nav>ul>li{
+    margin-right: 32px;
+}
+.container>nav>ul>li>a{
+    text-decoration: none;
+    color: #000000;
+
+}
+.container>aside {
+    float: left;
+    width: 100%;
+    margin: 0px 16px;
+}
+.container>aside>h1{
+    font-size:48px ; font-weight: 700px;line-height:  56.25px; text-align:center;
+    margin-top: 64px;
+    margin-bottom: 16px;
+    padding: 0px;
+}
+.container>aside>h4{
+    text-align:center;font-weight: 700px;font-size:20px;line-height:23.44px;
+    margin-top: 0px;
+    padding: 0px;
+    color: #C5A0F0;
+    margin-bottom: 64px;
+}
+.first{
+    display: flex;
+    margin-bottom: 64px;
+    height: 406px;
+
+}
+.tieude{
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+margin: 0px;
+margin-bottom: 12px;
+}
+.doanvan{
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+margin: 0px;
+}
+.second1{
+    margin-left: 32px;
+    margin-top: 153px;
+}
+.second2{
+    margin-left: 32px;
+    margin-top: 124px;
+}
+.box{
+
+   margin: 0px;
+   margin-top: 64px;
+    height: 64px;
+    padding: 0px;
+    text-align: center;
+    font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+background-color: #000000;
+margin-bottom: 64px;
+width: 1408px;
+}
+.box > p{
+    padding-top: 20px;
+}
+.container > footer{
+    background-color: #000000;
+    clear: both;
+    margin: 0px;
+    padding: 0px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    height: 100px;
+
+}
+.container>footer>p{
+    
+    padding-top: 38.5px;
+  
+}
